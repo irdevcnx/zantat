@@ -1,0 +1,248 @@
+<?php include 'header.php';?>
+<script src='https://www.google.com/recaptcha/api.js' async defer></script>
+<style>
+.page-header {
+    background: linear-gradient(rgba(24, 29, 56, .5), rgba(24, 29, 56, .5)), url(img/banner/careforsociety_bottom.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+/*     min-height: 500px; */
+}
+.w-100{width:100%;margin-top: -46px;}
+.big-title{
+    font-size: 48px;
+    text-transform: uppercase;
+    color: #005677;
+    font-weight:400;
+}
+.subti{
+    color: #005677;
+    font-size: 24px;
+    line-height: 1.25;
+    text-align: left;
+ }
+
+</style>
+
+    <!-- Carousel Start -->
+    
+    <!-- Header Start -->
+    <div class="container-fluid bg-primary py-5 page-header  d-flex justify-content-center align-items-center">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-12 text-center">
+<!--                     <h1 class="text-white animated slideInDown">ABOUT US</h1> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <img src="img/banner/about_overlay.png" class="w-100">
+    <!-- Header End -->
+
+    <!-- Carousel End -->
+    
+    
+    <section>
+    	<div class="container mb-5 mt-5">
+    		<div class="row">
+    			<div class="col-md-12">
+    				<h1 class="big-title mb-5">CONTACT DETAILS</h1>
+    			</div>
+    			
+    			  <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+    				<h5>Zantat Sdn Bhd - Kuala Lumpur Plant</h5>
+                        <p class="mb-4">Kuala Lumpur Plant</p>
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                <i class="fa fa-map-marker-alt text-white"></i>
+                            </div>
+                            <div class="ms-3">
+                                <p class="mb-0">Lot 1013-B, Jalan 2/32A, 6 &#189; Miles,
+                                Kepong Industrial Area, Jalan Kepong,
+                                52100 Kuala Lumpur, Malaysia</p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                <i class="fa fa-phone-alt text-white"></i>
+                            </div>
+                            <div class="ms-3">
+                                <p class="mb-0">+603 6258 5552 / +603 6258 1985</p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                <i class="fa fa-fax text-white"></i>
+                            </div>
+                            <div class="ms-3">
+                                <p class="mb-0">+603 6251 8766</p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                <i class="fa fa-envelope-open text-white"></i>
+                            </div>
+                            <div class="ms-3">
+                                <p class="mb-0">zantat@zantat.com.my</p>
+                            </div>
+                        </div>
+                    </div>
+    			<div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.573009852116!2d101.65079327497145!3d3.2062305967689566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc466ca605cabb%3A0x60846b157d0c88a7!2sZantat%20Sdn%20Bhd!5e0!3m2!1sen!2smy!4v1709612057181!5m2!1sen!2smy" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                
+                
+                <hr class="mb-5 mt-5">
+                
+                
+                
+    			<div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3977.353452775704!2d101.15252647497817!3d4.530206895444241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31caee243117e483%3A0xadf6209049bdbf9c!2sZantat%20Sdn%20Bhd!5e0!3m2!1sen!2smy!4v1709612637506!5m2!1sen!2smy" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                
+                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+    				<h5>Zantat Sdn Bhd - Ipoh Plant</h5>
+                        <p class="mb-4">Ipoh Plant</p>
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                <i class="fa fa-map-marker-alt text-white"></i>
+                            </div>
+                            <div class="ms-3">
+                                <p class="mb-0">PT24571 & PT21289, Kaw. Industri
+                                Batu Kapur Keramat Pulai, 31300
+                                Kampung Kepayang, Perak, Malaysia.</p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                <i class="fa fa-phone-alt text-white"></i>
+                            </div>
+                            <div class="ms-3">
+                                <p class="mb-0">+605 357 1853 / +605 357 1463</p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                <i class="fa fa-fax text-white"></i>
+                            </div>
+                            <div class="ms-3">
+                                <p class="mb-0">+605 3571407</p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
+                                <i class="fa fa-envelope-open text-white"></i>
+                            </div>
+                            <div class="ms-3">
+                                <p class="mb-0">zantat@zantat.com.my</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+               </div> 
+             </div> 
+         </section>
+                    	
+         <section style="background:#f7f7f7">
+           	<div class="container mb-5 mt-5">
+        		<div class="row">              	
+                    <div class="col-md-12 ">
+        				<h1 class="big-title mb-5 mt-5">BUSINESS ENQUIRY</h1>
+        				<p class="subti text-justify">We welcome enquiries pertaining to potential business opportunities and partnership collaborations, Do connect with us for more information and discussion.</p>
+        				<p class="subti text-justify">You can count on us, always.</p>
+        			</div>
+        			
+        			<p>All fields marked with * are required.</p>
+        			
+        			
+        			<form action="contactform.php"  method="post">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="name" placeholder="Full Name" required>
+                                    <label for="name">Full Name *</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="name" placeholder="Company Name" required>
+                                    <label for="company">Company Name *</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="name" placeholder="Contact Number" required> 
+                                    <label for="number">Contact Number *</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="email" class="form-control" id="email" placeholder="Email Address" required>
+                                    <label for="email">Email Address *</label>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6">
+                            <p class="f000000 bold-600">Product</p>
+                               	<div class="container">
+                               		<div class="row">
+                                   		<div class="form-check col-md-6">
+                                      		 <input type="checkbox" class="form-check-input" id="carbonate" name="carbonate" value="Coated Calcium Carbonate">
+      										 <label class="form-check-label" for="check2"><font class="f000000" >Coated Calcium Carbonate</font></label>
+                                       </div>
+                                       <div class="form-check col-md-6">
+                                       		<input type="checkbox" class="form-check-input" id="uncoated" name="uncoated" value="Uncoated Calcium Carbonate">
+      										 <label class="form-check-label" for="check2"><font class="f000000" >Uncoated Calcium Carbonate</font></label>
+                                       </div>
+                                       <div class="form-check col-md-6">
+                                       		 <input type="checkbox" class="form-check-input" id="calcium" name="calcium" value="Precipitated Calcium Carbonate">
+      										 <label class="form-check-label" for="check2"><font class="f000000" >Precipitated Calcium Carbonate</font></label>
+                                      </div>
+                                        <div class="form-check col-md-6">
+                                       		 <input type="checkbox" class="form-check-input" id="ground" name="ground" value="Ground Calcium Carbonate Dispersion">
+      										 <label class="form-check-label" for="check2"><font class="f000000" >Ground Calcium Carbonate Dispersion</font></label>
+                                      </div>
+                                        <div class="form-check col-md-6">
+                                       		 <input type="checkbox" class="form-check-input" id="precipitated" name="precipitated" value="Precipitated Calcium Carbonate Dispersion">
+      										 <label class="form-check-label" for="check2"><font class="f000000" >Precipitated Calcium Carbonate Dispersion</font></label>
+                                      </div>
+                                       
+                               		</div>
+                               	</div>
+                           </div>
+                            
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 150px" required></textarea>
+                                    <label for="message">Message*</label>
+                                </div>
+                            </div>
+                            
+                             <div class="col-12 mb-5">
+                                		    	<div class="g-recaptcha" data-sitekey="6LdskrUUAAAAAArAoNZmhkx7vcs404S4xAngxuzx"></div>
+                              </div>
+                            <div class="col-3 mb-5">
+                                <button class="btn btn-primary w-100 py-3" type="submit">Send Message</button>
+                            </div>
+                        </div>
+                    </form>
+        	</div> 
+        </div> 
+       </section>		
+         <section>
+           	<div class="container mb-5 mt-5">
+        		<div class="row">             
+        			 <div class="col-md-12 ">
+        				<h1 class="big-title mb-5 mt-5">WORK WITH US</h1>
+        				<p class="subti text-justify">We welcome any enquiry you may have as we are gearing up for more creative and professional talents. Discover how our esteemed organisation can unlock your potential and how you can be a positive contribution.</p>
+        				<p class="subti text-justify">Let/s connect! Send cover letter and cv to <a href="mailto:hr@zantat.com.my.">hr@zantat.com.my.</a> We would be glad to hear from you.</p>
+        			</div>
+        			
+        			
+        			
+    		</div>
+    	</div>
+    </section>
+    
+    
+    <?php include 'footer.php';?>

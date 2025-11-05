@@ -1,0 +1,138 @@
+<?php include 'header.php';?>
+
+
+
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0">
+        <div class="owl-carousel header-carousel position-relative">
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/banner/landing_slide01.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" >
+                    <div class="container">
+                        <div class="row justify-content-start">
+                        	<div class="col-sm-6 col-lg-6">
+                        	</div>
+                            <div class="col-sm-6 col-lg-6">
+                               <div class="slidebg">
+                               	<div class="">
+                               		<p class="slidetext">Zantat Sdn Bhd is one of the leading producers of Calcium Carbonate in Malaysia. We provide lasting value for our customers by delivering high-quality products and excellent services.
+                               		
+                               		<a class="viewmore" href="about-us.php"><i class="bi bi-chevron-right"></i></a>
+                               		</p>
+                               	</div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/banner/landing_slide02.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" >
+                    <div class="container">
+                        <div class="row justify-content-start">
+                        	<div class="col-sm-6 col-lg-6">
+                        	</div>
+                            <div class="col-sm-6 col-lg-6">
+                               <div class="slidebg">
+                               	<div class="">
+                               		<p class="slidetext">Zantat Sdn Bhd is one of the leading producers of Calcium Carbonate in Malaysia. We provide lasting value for our customers by delivering high-quality products and excellent services.
+                               		
+                               			<a class="viewmore" href="about-us.php"><i class="bi bi-chevron-right"></i></a>
+                               		</p>
+                               	</div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/banner/landing_slide03.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" >
+                    <div class="container">
+                        <div class="row justify-content-start">
+                        	<div class="col-sm-6 col-lg-6">
+                        	</div>
+                            <div class="col-sm-6 col-lg-6">
+                               <div class="slidebg">
+                               	<div class="">
+                               		<p class="slidetext">Zantat Sdn Bhd is one of the leading producers of Calcium Carbonate in Malaysia. We provide lasting value for our customers by delivering high-quality products and excellent services.
+                               			<a class="viewmore" href="about-us.php"><i class="bi bi-chevron-right"></i></a>
+                               		
+                               		</p>
+                               	</div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/banner/landing_slide04.jpg" alt="">
+                <<div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" >
+                    <div class="container">
+                        <div class="row justify-content-start">
+                        	<div class="col-sm-6 col-lg-6">
+                        	</div>
+                            <div class="col-sm-6 col-lg-6">
+                               <div class="slidebg">
+                               	<div class="">
+                               		<p class="slidetext">Zantat Sdn Bhd is one of the leading producers of Calcium Carbonate in Malaysia. We provide lasting value for our customers by delivering high-quality products and excellent services.
+                               			<a class="viewmore" href="about-us.php"><i class="bi bi-chevron-right"></i></a>
+                               		</p>
+                               	</div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/banner/landing_slide05.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" >
+                    <div class="container">
+                        <div class="row justify-content-start">
+                        	<div class="col-sm-6 col-lg-6">
+                        	</div>
+                            <div class="col-sm-6 col-lg-6">
+                               <div class="slidebg">
+                               	<div class="">
+                               		<p class="slidetext">Zantat Sdn Bhd is one of the leading producers of Calcium Carbonate in Malaysia. We provide lasting value for our customers by delivering high-quality products and excellent services.
+                               			<a class="viewmore" href="about-us.php"><i class="bi bi-chevron-right"></i></a>
+                               		</p>
+                               	</div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/banner/landing_slide06.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" >
+                    <div class="container">
+                        <div class="row justify-content-start">
+                        	<div class="col-sm-6 col-lg-6">
+                        	</div>
+                            <div class="col-sm-6 col-lg-6">
+                               <div class="slidebg">
+                               	<div class="">
+                               		<p class="slidetext">Zantat Sdn Bhd is one of the leading producers of Calcium Carbonate in Malaysia. We provide lasting value for our customers by delivering high-quality products and excellent services.
+                               		
+                               			<a class="viewmore" href="about-us.php"><i class="bi bi-chevron-right"></i></a>
+                               		</p>
+                               	</div>
+                               </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Carousel End -->
+    
+    
+    
+    <?php include 'footer.php';?>
