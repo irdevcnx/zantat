@@ -195,8 +195,16 @@ select {
                	  		<div class="box-go bluebox mb-2">
                 			<p class=" text-left mb-4">Aw Ee Ling  </p>
                 		</div>
-            		</div>
+            		  </div>
            	  	</div>
+                  <div class="col-md-3 mb-4">
+                <div id="nav-home-tab" class="hopp" data-bs-toggle="modal" data-bs-target="#Yang">
+                <img alt="" src="img/bod/Chan Jee Yang.png" class="img-fluid w-100">
+                  <div class="box-go bluebox mb-2">
+                    <p class=" text-left">Chan Jee Yang</p>
+                  </div>
+                </div>
+              </div>
            	  </div>
        	  </div>
 
@@ -217,7 +225,7 @@ select {
                      	<h2 class="text-blue">Chan Bin Iuan </h2>
 
                         <h5>Managing Director / Chief Executive Officer </h5>
-                        <h5> <img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic"> | Aged 40 | Male </h5>
+                        <h5> <img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic"> | Aged 41 | Male </h5>
 
                         <p><strong>Qualifications:</strong></p>
                         <p>Bachelor&rsquo;s degree in Mechanical
@@ -287,7 +295,7 @@ within the past 5 years.</p>
                      	<h2 class="text-blue">Chan Jee Chet </h2>
 
                         <h5>Executive Director / Chief Operating Officer (Perak Plant) </h5>
-                        <h5><img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic"> | Aged 36 | Male </h5>
+                        <h5><img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic"> | Aged 37 | Male </h5>
 
                         <p><strong>Qualifications:</strong></p>
                         <p>Bachelor of Business and
@@ -356,7 +364,7 @@ within the past 5 years.</p>
                      	<h2 class="text-blue">Chan Eng Hue </h2>
 
                         <h5>Chief Operating Officer (KL Plant) </h5>
-                        <h5> <img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic"> | Aged 61 | Male </h5>
+                        <h5> <img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic"> | Aged 62 | Male </h5>
 
                         <p><strong>Qualifications:</strong></p>
                         <p>Diploma in Quantity Surveyor
@@ -432,7 +440,7 @@ within the past 5 years.</p>
                 	<div class="modal-body">
                      	<h2 class="text-blue">Aw Ee Ling </h2>
                        	<h5> Executive Director / Chief Financial Officer  </h5>
-                        <h5><img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic"> | Aged 34 | Female </h5>
+                        <h5><img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic"> | Aged 35 | Female </h5>
 
                         <p><strong>Qualifications:</strong></p>
                         <div>
@@ -519,6 +527,85 @@ within the past 5 years.</p>
    		 </div><!-- End About Section -->
 
 
+
+       <div class="modal fade" id="Yang" role="dialog">
+      <div class="modal-dialog">
+          <div class="modal-content">
+              <div class="modal-body">
+                  <h2 class="text-blue">Chan Jee Yang</h2>
+
+                  <div class="profile-header">
+                      <h5>Executive Director / Chief Strategy Officer</h5>
+                                            <h5>
+                                                    <img alt="" src="img/icon/MY-Flag-Icon.png" class="img-ic">
+                                                    | Aged 33 | Male                      </h5>
+                                                                  <h5 class="section-title"><span style="font-weight:600">Date of appointment to the board:</span> <br>Alternate Director to Chan Hup Ooi
+<small>(Appointed on 21 February 2025)</small><br>Executive Director
+<small>(Redesignated on 1 January 2026)</small></h5>
+                                        </div>
+
+
+                                    <h5 class="section-title">Qualifications:</h5>
+                  <ul class="qualification-list">
+                                            <li>Master of Engineering specialising
+in Mechatronics, Robotics and
+Automation Engineering from
+University of Melbourne</li>
+                                            <li>Bachelor of Science specialising
+in Mechanical Engineering from
+University of Melbourne</li>
+                                        </ul>
+                  
+                                    <h5 class="section-title">Experience:</h5>
+                  <div class="experience-text">
+                                            <p>Mr Chan Jee Yang began his
+career by co-founding a tech
+startup in 2017, gaining handson experience in entrepreneurial
+leadership, fundraising, and product
+development. He subsequently
+joined Zantat in 2018 as a
+Mechanical Engineer, supporting
+the commissioning of Perak Plant’s
+ball mill expansion projects. From
+2020 to 2024, he transitioned into
+management consulting at Strategy&amp;
+and later McKinsey &amp; Company,
+working with business leaders
+across public and private sectors to
+drive business transformation and
+shape regulatory standards across
+diverse industries. In 2024, he
+joined Zantat as General Manager
+of Calrock, where he is responsible
+for overseeing its daily activities and
+strategic direction.</p>
+                                        </div>
+                  
+                                    <h5 class="section-title">Membership in Board Committee(s):</h5>
+                                    <p>None</p>
+                                    
+                                    <h5 class="section-title">Directorship in other public companies:</h5>
+                                    <p>None</p>
+                                    
+                                    <h5 class="section-title">Declaration of conflict of interest or any family relationship with any other director and/or major shareholders:</h5>
+                                    <p>Family relationships with other directors and/or major shareholders:</p>
+                  <ul class="family-list">
+                                            <li>Chan Hup Ooi, Father, Non-Independent Non-Executive Deputy Chairman</li>
+                                            <li>Chan Bin Iuan, Brother, Managing Director/Chief Executive Officer</li>
+                                            <li>Chan Jee Chet, Brother, Executive Director/Chief Operating Officer (Perak Plants)</li>
+                                            <li>Chan Eng Hue, Uncle, Chief Operating Officer (KL Plant)</li>
+                                            <li>Aw Ee Ling, Cousin, Executive Director/Chief Financial Officer</li>
+                                        </ul>
+                                    
+                  <h5 class="section-title">Declaration on conviction of offences within the past 5 years:</h5>
+                  <p>He maintains a clean record with
+regards to convictions for offences
+(other than traffic offences, if any)
+within the past 5 years.</p>
+              </div>
+          </div>
+      </div>
+  </div>
 
 
 

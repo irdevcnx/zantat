@@ -191,7 +191,7 @@ function renderDirectorModal($data) {
                       </h5>
                       <?php endif; ?>
                       <?php if (!empty($appointment)): ?>
-                      <h5>DATE OF APPOINTMENT TO THE BOARD: <?php echo $appointment; ?></h5>
+                      <h5 class="section-title"><span style="font-weight:600">Date of appointment to the board:</span> <?php echo $appointment; ?></h5>
                       <?php endif; ?>
                   </div>
 
@@ -272,7 +272,7 @@ $directors = [
         'id' => 'Yap',
         'name' => 'Yap Yoon Kong',
         'position' => 'Independent Non-Executive Chairman',
-        'age' => '68',
+        'age' => '69',
         'gender' => 'Male',
         'nationality' => 'Malaysian',
         'appointment' => '31 March 2023',
@@ -307,62 +307,17 @@ regards to convictions for offences
 (other than traffic offences, if any)
 within the past 5 years.'
     ],
-    [
-        'id' => 'Chan',
-        'name' => 'Chan Hup Ooi',
-        'position' => 'Non-Independent Non-Executive Deputy Chairman',
-        'age' => '69',
-        'gender' => 'Male',
-        'nationality' => 'Malaysian',
-        'appointment' => '31 March 2023',
-        'img' => 'img/bod/Chan Hup Ooi 1.png',
-        'qualifications' => [
-            'Completed secondary education in 1974'
-        ],
-        'experience' => [
-          'Mr Chan Hup Ooi began his career
-in sales, then worked in various
-roles including storekeeping clerk,
-Production Manager at Ban Loong
-Trading Company Sdn Bhd, Salesman
-at Anglo American Corporation (M)
-Sdn Bhd, and Production Manager
-at Cheng Sun Quarry Sdn Bhd
-before focusing on Zantat&rsquo;s business
-since 1986. He has been involved in
-the overall management and day-today business operations of Zantat
-as a Managing Director until 2021
-when he officially relinquished his
-executive role.'
-        ],
-        'committees' => 'None',
-        'directorships' => 'None',
-        'family' => [
-            'Chan Bin Iuan, Son, Managing
-Director/ Chief Executive Officer',
-            'Chan Jee Chet, Son, Executive
-Director/Chief Operating Officer
-(Perak Plants)',
-            'Chan Eng Hue, Brother, Chief
-Operating Officer (KL Plant)',
-            'Aw Ee Ling, Niece, Executive
-Director/Chief Financial Officer',
-            'Chan Jee Yang, Son, Alternate
-Director to Chan Hup Ooi'
-        ],
-        'conviction' => 'He maintains a clean record with
-regards to convictions for offences
-(other than traffic offences, if any)
-within the past 5 years.'
-    ],
+    
     [
         'id' => 'Iuan',
         'name' => 'Chan Bin Iuan',
-        'position' => 'Managing Director / Chief Executive Officer',
-        'age' => '40',
+        'position' => 'Executive Vice Chairman / Chief Executive Officer',
+        'age' => '41',
         'gender' => 'Male',
         'nationality' => 'Malaysian',
-        'appointment' => '31 March 2023',
+        'appointment' => '<br/>Managing Director
+<small>(Appointed on 31 March 2023)</small><br/>Executive Vice Chairman
+<small>(Redesignated on 1 January 2026)</small>',
         'img' => 'img/bod/Chan Bin Iuan 1.png',
         'qualifications' => [
             'Bachelor&rsquo;s degree in Mechanical
@@ -408,12 +363,14 @@ Director to Chan Hup Ooi'
     [
         'id' => 'Chet',
         'name' => 'Chan Jee Chet',
-        'position' => 'Executive Director / Chief Operating
-Officer (Perak Plants)',
-        'age' => '36',
+        'position' => 'Managing Director / Chief Operating Officer (Perak Plants)',
+        'age' => '37',
         'gender' => 'Male',
         'nationality' => 'Malaysian',
-        'appointment' => '31 March 2023',
+        'appointment' => '<br/>Executive Director
+<small>(Appointed on 31 March 2023)</small><br/>Managing Director 
+<small>(Redesignated on 1 January 2026)</small> 
+',
         'img' => 'img/bod/Chan Jee Chet 1.png',
         'qualifications' => [
             'Bachelor of Business and
@@ -462,7 +419,7 @@ Director to Chan Hup Ooi'
         'name' => 'Aw Ee Ling',
         'position' => 'Executive Director /
 Chief Financial Officer',
-        'age' => '34',
+        'age' => '35',
         'gender' => 'Female',
         'nationality' => 'Malaysian',
         'appointment' => '1 March 2025',
@@ -531,11 +488,72 @@ Director to Chan Hup Ooi'
         'conviction' => 'She maintains a clean record with regards to convictions for offences (other than traffic offences, if any) within the past 5 years.'
     ],
 
+
+
+    
+[
+  'id' => 'Yang',
+  'name' => 'Chan Jee Yang',
+  'position' => 'Executive Director / Chief Strategy Officer',
+  'age' => '33',
+  'gender' => 'Male',
+  'nationality' => 'Malaysian', 
+  'appointment' => '<br/>Alternate Director to Chan Hup Ooi
+<small>(Appointed on 21 February 2025)</small><br/>Executive Director
+<small>(Redesignated on 1 January 2026)</small>',
+  'img' => 'img/bod/Chan Jee Yang.png',
+  'qualifications' => [
+      'Master of Engineering specialising
+in Mechatronics, Robotics and
+Automation Engineering from
+University of Melbourne',
+      'Bachelor of Science specialising
+in Mechanical Engineering from
+University of Melbourne',
+
+  ],
+  'experience' => [
+      'Mr Chan Jee Yang began his
+career by co-founding a tech
+startup in 2017, gaining handson experience in entrepreneurial
+leadership, fundraising, and product
+development. He subsequently
+joined Zantat in 2018 as a
+Mechanical Engineer, supporting
+the commissioning of Perak Plant&rsquo;s
+ball mill expansion projects. From
+2020 to 2024, he transitioned into
+management consulting at Strategy&
+and later McKinsey & Company,
+working with business leaders
+across public and private sectors to
+drive business transformation and
+shape regulatory standards across
+diverse industries. In 2024, he
+joined Zantat as General Manager
+of Calrock, where he is responsible
+for overseeing its daily activities and
+strategic direction.'
+  ],
+  'committees' => 'None',
+  'directorships' => 'None',
+  'family' => [
+    'Chan Hup Ooi, Father, Non-Independent Non-Executive Deputy Chairman',
+    'Chan Bin Iuan, Brother, Managing Director/Chief Executive Officer',
+    'Chan Jee Chet, Brother, Executive Director/Chief Operating Officer (Perak Plants)',
+    'Chan Eng Hue, Uncle, Chief Operating Officer (KL Plant)',
+    'Aw Ee Ling, Cousin, Executive Director/Chief Financial Officer',
+  ],
+  'conviction' => 'He maintains a clean record with
+regards to convictions for offences
+(other than traffic offences, if any)
+within the past 5 years.'
+],
     [
       'id' => 'Poo',
       'name' => 'Poo Lap Tuck',
       'position' => 'Independent Non-Executive Director',
-      'age' => '73',
+      'age' => '74',
       'gender' => 'Male',
       'nationality' => 'Malaysian',
       'appointment' => '31 March 2025',
@@ -599,7 +617,7 @@ within the past 5 years.'
     'name' => 'Dr. Gan
 Seng Kian',
     'position' => 'Independent Non-Executive Director',
-    'age' => '47',
+    'age' => '48',
     'gender' => 'Male',
     'nationality' => 'Malaysian',
     'appointment' => '31 March 2023',
@@ -660,7 +678,7 @@ within the past 5 years.'
   'id' => 'Arif',
   'name' => 'Rima Ramona Binti Muhammad Arif',
   'position' => 'Independent Non-Executive Director',
-  'age' => '51',
+  'age' => '52',
   'gender' => 'Female',
   'nationality' => 'Malaysian',
   'appointment' => '31 March 2023',
@@ -717,7 +735,7 @@ within the past 5 years.'
   'name' => 'Prof. Dr.
 Teh Geok Bee',
   'position' => 'Independent Non-Executive Director',
-  'age' => '55',
+  'age' => '56',
   'gender' => 'Female',
   'nationality' => 'Malaysian',
   'appointment' => '1 March 2025',
@@ -776,62 +794,6 @@ regards to convictions for offences
 within the past 5 years.'
 ],
 
-[
-  'id' => 'Yang',
-  'name' => 'Chan Jee Yang',
-  'position' => 'Alternate Director to Chan Hup Ooi',
-  'age' => '32',
-  'gender' => 'Male',
-  'nationality' => 'Malaysian',
-  'appointment' => '21 February 2025',
-  'img' => 'img/bod/Chan Jee Yang.png',
-  'qualifications' => [
-      'Master of Engineering specialising
-in Mechatronics, Robotics and
-Automation Engineering from
-University of Melbourne',
-      'Bachelor of Science specialising
-in Mechanical Engineering from
-University of Melbourne',
-
-  ],
-  'experience' => [
-      'Mr Chan Jee Yang began his
-career by co-founding a tech
-startup in 2017, gaining handson experience in entrepreneurial
-leadership, fundraising, and product
-development. He subsequently
-joined Zantat in 2018 as a
-Mechanical Engineer, supporting
-the commissioning of Perak Plant&rsquo;s
-ball mill expansion projects. From
-2020 to 2024, he transitioned into
-management consulting at Strategy&
-and later McKinsey & Company,
-working with business leaders
-across public and private sectors to
-drive business transformation and
-shape regulatory standards across
-diverse industries. In 2024, he
-joined Zantat as General Manager
-of Calrock, where he is responsible
-for overseeing its daily activities and
-strategic direction.'
-  ],
-  'committees' => 'None',
-  'directorships' => 'None',
-  'family' => [
-    'Chan Hup Ooi, Father, Non-Independent Non-Executive Deputy Chairman',
-    'Chan Bin Iuan, Brother, Managing Director/Chief Executive Officer',
-    'Chan Jee Chet, Brother, Executive Director/Chief Operating Officer (Perak Plants)',
-    'Chan Eng Hue, Uncle, Chief Operating Officer (KL Plant)',
-    'Aw Ee Ling, Cousin, Executive Director/Chief Financial Officer',
-  ],
-  'conviction' => 'He maintains a clean record with
-regards to convictions for offences
-(other than traffic offences, if any)
-within the past 5 years.'
-],
     // Add more directors as needed
 ];
 ?>
