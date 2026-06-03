@@ -15,7 +15,7 @@
 }
 .berrd td{padding:10px;vertical-align:top;text-align:left;}
 .bold{font-weight:600;}
-.mx-160{max-width:260px;}
+.mx-160{max-width:400px;}
 </style>
 
     <!-- Header Start -->
@@ -49,13 +49,14 @@
             			<p class="text-black mb-0"><strong>Yap Yoon Kong</strong></p>
 						<p><span style="white-space: nowrap;">Independent Non-Executive Chairman</span></p>
 						
-						<p class="text-black mb-0"><strong>Chan Hup Ooi</strong></p>
-						<p><span style="white-space: nowrap;">Non-Independent<br/>Non-Executive Deputy Chairman</span></p>
 						
 						<p class="text-black mb-0"><strong>Chan Bin Iuan</strong></p>
-						<p><span style="white-space: nowrap;">Managing Director</span></p>
+						<p><span style="white-space: nowrap;">Executive Vice Chairman</span></p>
 
 						<p class="text-black mb-0"><strong>Chan Jee Chet</strong></p>
+						<p><span style="white-space: nowrap;">Managing Director</span></p>
+
+						<p class="text-black mb-0"><strong>Chan Jee Yang</strong></p>
 						<p><span style="white-space: nowrap;">Executive Director</span></p>
 						
 						<p class="text-black mb-0"><strong>Aw Ee Ling</strong></p>
@@ -70,17 +71,16 @@
 						<p class="text-black mb-0"><strong>Rima Ramona Binti<br/>Muhammad Arif</strong></p>
 						<p><span style="white-space: nowrap;">Independent Non-Executive Director</span></p>
 						 
-						<p class="text-black mb-0"><strong>Prof. Dr. Teh Geok Bee</strong></p>
+						<p class="text-black mb-0"><strong>Dr. Teh Geok Bee</strong></p>
 						<p><span style="white-space: nowrap;">Independent Non-Executive Director</span></p>
 						 
-						<p class="text-black mb-0"><strong>Chan Jee Yang</strong></p>
-						<p><span style="white-space: nowrap;">Alternate Director to Chan Hup Ooi</span></p>
+						
 
             		</div>
             		
             		<div class="mb-4 text-justify mx-160">
             			<p class="text-blue"><strong>Audit&nbsp;And&nbsp;Risk Management Committee</strong></p>
-            			<p class="text-black"><strong>Poo Lap Tuck</strong>(Chairman)</p>
+            			<p class="text-black"><strong>Poo Lap Tuck</strong> (Chairman)</p>
 						<p class="text-black"><strong>Gan Seng Kian</strong></p>
             			<p class="text-black"><strong>Rima&nbsp;Ramona&nbsp;Binti&nbsp;Muhammad&nbsp;Arif</strong></p>
 
@@ -89,7 +89,7 @@
 					<div class="mb-4 text-justify mx-160">
             			<p class="text-blue"><strong>Nomination&nbsp;And&nbsp;Remuneration Committee</strong></p>
 						<p class="text-black"><strong>Rima Ramona Binti</strong></p>
-						<p class="text-black"><strong>Muhammad Arif</strong>(Chairperson)</p>
+						<p class="text-black"><strong>Muhammad Arif</strong> (Chairperson)</p>
 						<p class="text-black"><strong>Gan Seng Kian</strong></p>
 						<p class="text-black"><strong>Poo Lap Tuck</strong></p>
 
@@ -99,7 +99,7 @@
             		
             		<div class="mb-4 text-justify mx-160">
             			<p class="text-blue"><strong>Company Secretary</strong></p>
-            			<p class="text-black">Siew Suet Wei (MAICSA 7011254) (SSM PC No.: 202008001690)</p>
+            			<p class="text-black">Siew Suet Wei (MAICSA 7011254) <br> (SSM PC No.: 202008001690)</p>
             		</div>
             		
 					<!--
@@ -129,21 +129,27 @@
 
             		<div class="mb-4 text-justify mx-160">
             			<p class="text-blue"><strong>Registered&nbsp;Office</strong></p>
-            			<p class="text-black">Unit 7-01, Level 7, Menara Lagenda
-						No. 3 Jalan SS20/27</p>
-						<p>47400 Petaling Jaya
-						Selangor</p>
-						<p>Malaysia</p>
+            			<p>
+  Unit 7-01, Level 7, Menara Lagenda <br>
+  No. 3 Jalan SS20/27<br>
+  47400 Petaling Jaya<br>
+  Selangor <br>
+  Malaysia
+</p>
+						
 						<p>Telephone: +603-7727 0033</p>
 						<p>Email: cosec@accoris.my</p>
             		</div>
 
             		<div class="mb-4 text-justify mx-160">
             			<p class="text-blue"><strong>Head&nbsp;Office</strong></p>
-            			<p class="text-black">PT 24571 & PT 21289 (Lot 35978)</p>
-						<p>Kaw. Industri Batu Kapur Keramat</p>
-						<p>Pulai, 31300 Kampung Kepayang</p>
-						<p>Perak</p>
+
+            			<p>PT 24571 & PT 21289<br>
+						Kaw. Industri Batu Kapur Keramat Pulai<br>
+						31300 Kampung Kepayang<br>
+						Perak</p>
+
+
 						<p>Telephone: +605-357 1853</p>
             		</div>
             		
@@ -155,11 +161,7 @@
 						<p class="text-black" style="white-space: nowrap;">Email address: zantat@zantat.com.my</p>
             		</div>
 
-            		<div class="mb-4 text-justify mx-160">
-            			<p class="text-blue"><strong>Auditors</strong></p>
-            			<p class="text-black"><strong>Crowe Malaysia PLT</strong></p>
-						<p>(Registration No. 201906000005<br/>(LLP0018817-LCA) & AF 1018)</p>
-            		</div>
+            		
             		
 	
 					<div class="mb-4 text-justify mx-160">
@@ -181,12 +183,21 @@
             			<p class="text-blue"><strong>Sponsor</strong></p>
             			<p class="text-black"><strong>M & A Securities Sdn Bhd</strong></p>
 						<p>(Registration No. 197301001503<br/>(15017-H))</p>
-						<p>45-11, The Boulevard</p>
-						<p>Mid Valley City</p>
-						<p>Lingkaran Syed Putra</p>
-						<p>59200 Kuala Lumpur</p>
+
+
+						<p>45 & 47, Levels 3 and 7, The Boulevard<br>
+						Mid Valley City<br>
+						Lingkaran Syed Putra<br>
+						59200 Kuala Lumpur</p>
+
+						
 						<p>Telephone: +603-2284 2911</p>
             		</div>
+
+
+
+
+
 					<div class="mb-4 text-justify mx-160">
             			<p class="text-blue"><strong>Share Registrar<br/>Services Sdn Bhd</strong></p>
 						<p>(Registration No. 197101000970<br/>(11324-H))</p>
